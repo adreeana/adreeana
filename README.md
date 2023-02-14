@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Adriana. 
+
+I am a mom and in my spare time a software engineer solving problems and building things. 
+
+I love to run, play chess, wolves, cats and chocolate.
+
 <!--
 **adreeana/adreeana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
