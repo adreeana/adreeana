@@ -4,7 +4,9 @@ I am Adriana.
 
 I am a mom and in my spare time a software engineer solving problems and building things. 
 
-I love to run, play chess, wolves, cats and chocolate.
+I am a runner and a beginner [chess player](https://lecavalierdelatourelle.blogspot.com/).
+
+I love wolves, cats and [Papanasi](https://www.cuisineaz.com/recettes/papanasi-105748.aspx).
 
 <!--
 **adreeana/adreeana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
