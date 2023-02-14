@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Adriana. 
+### Hi there 👋, I am Adriana. 
 
 I am a mom and in my spare time a software engineer solving problems and building things. 
 
